@@ -24,7 +24,7 @@ namespace Conditional_Statements
                 Console.WriteLine($"{num} is odd an odd number");
             }
             Console.ReadLine();
-            Console.ReadKey();
+            Console.Clear();
 
             // a program that checks if user is logged in using if statement
             bool LoggedIn = true;
@@ -35,6 +35,7 @@ namespace Conditional_Statements
 
             }
             Console.ReadLine() ;
+            Console.Clear();
 
             /*checks a driver’s speed and gives a warning or fine based on 
              how fast they’re going. using if-else-if statement   */
@@ -61,6 +62,7 @@ namespace Conditional_Statements
                 Console.WriteLine("You are driving above the speed limit");
             }
             Console.ReadLine();
+            Console.Clear();
             //using a switch case statement create a program that will ask a user to enter a day and display an appropriate message
 
               Console.WriteLine("Please enter a day");
@@ -96,6 +98,7 @@ namespace Conditional_Statements
 
             }
             Console.ReadLine();
+            Console.Clear();
 
 
 
